@@ -9,7 +9,7 @@ This repository holds **build artifacts only**. The source is private.
 
 Get the latest `.dmg` from [Releases](../../releases/latest).
 
-**macOS (Apple Silicon).** There is no Intel or Windows build yet.
+**macOS 13 or later, Intel or Apple Silicon.** There is no Windows build yet.
 
 ### Before your first session
 
